@@ -265,8 +265,14 @@ body{
 }
 
 @media (min-width: 768px) and (max-width: 992px) {
+	.header-icon{
+		padding-left: 24%;
+	}
 	.gallery-main{
 		background-size: cover;
+	}
+	.footer-right{
+		padding-left: 24%;
 	}
 }
 
