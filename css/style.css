@@ -248,8 +248,15 @@ body{
 	.portfolio-content{
 		text-align: center;
 	}
+	.gallery{
+		padding-top:0;
+		padding-bottom: 12px;
+	}
 	.gallery-main{
 		background:none;
+	}
+	.gallery-right{
+		display: none;
 	}
 
 	.footer-left,.footer-right{
